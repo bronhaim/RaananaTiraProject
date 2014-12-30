@@ -23,7 +23,7 @@ window_caption = "Raanana Tira Project"
 # Matrix
 
 matrix_height = 9
-matrix_width = 4
+matrix_width = 6
 row_height = 65
 cell_width = 130
 left_margin = 95
